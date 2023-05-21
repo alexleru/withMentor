@@ -26,5 +26,10 @@
         <item name="colorOnSurfaceInverse">@color/md_theme_dark_inverseOnSurface</item>
         <item name="colorSurfaceInverse">@color/md_theme_dark_inverseSurface</item>
         <item name="colorPrimaryInverse">@color/md_theme_dark_inversePrimary</item>
+
+        <item name="textAppearanceTitleMedium">@style/TextAppearance.AppTheme.TitleMedium</item>
+        <item name="textAppearanceBodyLarge">@style/TextAppearance.AppTheme.BodyLarge</item>
+        <item name="textAppearanceLabelLarge">@style/TextAppearance.AppTheme.LabelLarge</item>
+        <item name="textAppearanceLabelMedium">@style/TextAppearance.AppTheme.LabelMedium</item>
     </style>
 </resources>

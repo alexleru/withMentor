@@ -31,5 +31,7 @@
         <item name="textAppearanceBodyLarge">@style/TextAppearance.AppTheme.BodyLarge</item>
         <item name="textAppearanceLabelLarge">@style/TextAppearance.AppTheme.LabelLarge</item>
         <item name="textAppearanceLabelMedium">@style/TextAppearance.AppTheme.LabelMedium</item>
+
+
     </style>
 </resources>
