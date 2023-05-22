@@ -19,6 +19,7 @@
     
     <style name="PrimaryTitle" parent="TextAppearance.AppTheme.TitleMedium">
 <!--Непонятно, как задать primary color в стиле?-->
+        <!-- TODO: ?attrName -->
         <item name="android:textColor">@color/md_theme_light_primary</item>
     </style>
 </resources>

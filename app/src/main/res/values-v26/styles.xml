@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <!-- TODO: Не обязательно дублировать стили для разных версий. Достаточно одного в базовой директории, они будут доступны для всех -->
     <style name="TextAppearance.AppTheme.TitleMedium" parent="TextAppearance.Material3.TitleMedium">
         <item name="android:textSize">22sp</item>
         <item name="android:fontWeight">500</item>
@@ -20,6 +20,6 @@
 
     <style name="PrimaryTitle" parent="TextAppearance.AppTheme.TitleMedium">
         <!--Непонятно, как задать primary color в стиле?-->
-        <item name="android:textColor">@color/md_theme_light_primary</item>
+        <item name="android:textColor">?colorPrimary</item>
     </style>
 </resources>
